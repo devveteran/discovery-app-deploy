@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "https://devveteran.github.io/discovery-app-deploy/static/css/main.4a34b558.css",
+    "main.js": "https://devveteran.github.io/discovery-app-deploy/static/js/main.5a343635.js",
+    "static/js/787.d69d47f0.chunk.js": "https://devveteran.github.io/discovery-app-deploy/static/js/787.d69d47f0.chunk.js",
+    "static/media/logo.svg": "https://devveteran.github.io/discovery-app-deploy/static/media/logo.df02a58f10e52464a1b8035d8d934e81.svg",
+    "index.html": "https://devveteran.github.io/discovery-app-deploy/index.html",
+    "main.4a34b558.css.map": "https://devveteran.github.io/discovery-app-deploy/static/css/main.4a34b558.css.map",
+    "main.5a343635.js.map": "https://devveteran.github.io/discovery-app-deploy/static/js/main.5a343635.js.map",
+    "787.d69d47f0.chunk.js.map": "https://devveteran.github.io/discovery-app-deploy/static/js/787.d69d47f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a34b558.css",
+    "static/js/main.5a343635.js"
+  ]
+}
