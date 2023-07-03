@@ -1,16 +1,30 @@
 {
   "files": {
-    "main.css": "https://devveteran.github.io/discovery-app-deploy/static/css/main.4a34b558.css",
-    "main.js": "https://devveteran.github.io/discovery-app-deploy/static/js/main.5a343635.js",
+    "main.css": "https://devveteran.github.io/discovery-app-deploy/static/css/main.33b3e6e7.css",
+    "main.js": "https://devveteran.github.io/discovery-app-deploy/static/js/main.e00e0848.js",
     "static/js/787.d69d47f0.chunk.js": "https://devveteran.github.io/discovery-app-deploy/static/js/787.d69d47f0.chunk.js",
+    "static/media/fileaudio.svg": "https://devveteran.github.io/discovery-app-deploy/static/media/fileaudio.5de5b37790ced9e3c976dc48962399cb.svg",
+    "static/media/filevideo.svg": "https://devveteran.github.io/discovery-app-deploy/static/media/filevideo.26e77ae66167a7c2cf7f4c1d5e130876.svg",
     "static/media/logo.svg": "https://devveteran.github.io/discovery-app-deploy/static/media/logo.df02a58f10e52464a1b8035d8d934e81.svg",
+    "static/media/filter.svg": "https://devveteran.github.io/discovery-app-deploy/static/media/filter.6024ba8e5e5c937ed6e61e8d84461d0e.svg",
+    "static/media/save.svg": "https://devveteran.github.io/discovery-app-deploy/static/media/save.9d0ccc54e8ee972e48f8187dfb2345f6.svg",
     "index.html": "https://devveteran.github.io/discovery-app-deploy/index.html",
-    "main.4a34b558.css.map": "https://devveteran.github.io/discovery-app-deploy/static/css/main.4a34b558.css.map",
-    "main.5a343635.js.map": "https://devveteran.github.io/discovery-app-deploy/static/js/main.5a343635.js.map",
+    "static/media/edit.svg": "https://devveteran.github.io/discovery-app-deploy/static/media/edit.3cc424e3c0dde5c781998fb2ec701361.svg",
+    "static/media/folder.svg": "https://devveteran.github.io/discovery-app-deploy/static/media/folder.f2c071ded9f921c65c832f4da32a7693.svg",
+    "static/media/presentation.svg": "https://devveteran.github.io/discovery-app-deploy/static/media/presentation.2c49fa9a158a8b956dde34059e45f0ef.svg",
+    "static/media/file.svg": "https://devveteran.github.io/discovery-app-deploy/static/media/file.7d96c7e32b46c2114b8bcc0ecaf64b70.svg",
+    "static/media/plus.svg": "https://devveteran.github.io/discovery-app-deploy/static/media/plus.a464504da7e2cb3a7670ed94623554eb.svg",
+    "static/media/message.svg": "https://devveteran.github.io/discovery-app-deploy/static/media/message.85f379fb2e3c66833086dc8b1a6dbe67.svg",
+    "static/media/row3.svg": "https://devveteran.github.io/discovery-app-deploy/static/media/row3.116eef317d0f36e33e2485bb35ab8797.svg",
+    "static/media/envelope.svg": "https://devveteran.github.io/discovery-app-deploy/static/media/envelope.7b585b83d67903291704de98cb5c9aea.svg",
+    "static/media/row2.svg": "https://devveteran.github.io/discovery-app-deploy/static/media/row2.92dc6e3b0a407215b2859ca114bce1a2.svg",
+    "static/media/row1.svg": "https://devveteran.github.io/discovery-app-deploy/static/media/row1.78781ab9391ad51ccffb16217b6ea437.svg",
+    "main.33b3e6e7.css.map": "https://devveteran.github.io/discovery-app-deploy/static/css/main.33b3e6e7.css.map",
+    "main.e00e0848.js.map": "https://devveteran.github.io/discovery-app-deploy/static/js/main.e00e0848.js.map",
     "787.d69d47f0.chunk.js.map": "https://devveteran.github.io/discovery-app-deploy/static/js/787.d69d47f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a34b558.css",
-    "static/js/main.5a343635.js"
+    "static/css/main.33b3e6e7.css",
+    "static/js/main.e00e0848.js"
   ]
 }
